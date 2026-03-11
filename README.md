@@ -1,4 +1,6 @@
 # Job-Pecker
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2e9d52d-7230-4b78-b61a-3983648bab5e" />
+
 # AI Job Apply Assistant
 
 A semi-automated job application tool that helps job seekers find relevant roles, score job fit, tailor resumes, and apply more efficiently across SEEK, Indeed, and company career sites.
